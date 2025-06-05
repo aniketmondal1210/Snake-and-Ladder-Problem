@@ -1,5 +1,3 @@
-# main.py
-
 # Class for queue entry used in BFS
 class QueueEntry:
     def __init__(self, v=0, dist=0):
